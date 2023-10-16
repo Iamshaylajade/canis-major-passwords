@@ -22,7 +22,7 @@ Access the application by clicking the link to the url.
 
 url: iamshaylajade.github.io/canis-major-passwords 
 
-https://github.com/Iamshaylajade/canis-major-passwords
+repository: https://github.com/Iamshaylajade/canis-major-passwords
 
 Select the button to "Generate Password" and follow prompts
 
