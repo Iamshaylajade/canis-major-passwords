@@ -17,6 +17,17 @@ and remember so much more.
 - [License](#license)
 
 ## Installation
+
+Access the application by clicking the link to the url. 
+
+url: iamshaylajade.github.io/canis-major-passwords 
+
+https://github.com/Iamshaylajade/canis-major-passwords
+
+Select the button to "Generate Password" and follow prompts
+
+## Usage
+
 Access the application by clicking the link to the url. 
 Select the button to "Generate Password".
 Confirm the number of characters you want in your password.
@@ -24,23 +35,35 @@ Follow the prompts and select "ok" or "cancel" to the character types included i
 The application will then give you a password based off the prompts you selected. 
 You are able to copy, save and use this password as you need. 
 
+<img src="./assets/images/Screenshot (5).png" alt="image">
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 This project was completed with the assistance of a tutuor, Patrick Lake who helped me walk thru options of how to build JavaScript.
-Also with the assistance of 
+Also with the assistance of tutor Jili Jiang who really helped alot with rewriting and arranging Javascript with me. And tutor Juan Delgado for answering readme.md questions. 
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
+
+Copyright (c) [2023] [Shayla Morris]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
